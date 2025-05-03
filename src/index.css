@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+nav {
+  transition: background-color 0.3s ease;
+}
+
+button {
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+a {
+  transition: color 0.3s ease;
+}
+
